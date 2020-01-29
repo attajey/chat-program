@@ -1,6 +1,7 @@
 # chat-program
 Simple Chat Program 
 In this simple chat program that I created for my internship course, I have used  multithreading, Tkinter GUI, and some socket programming. There are some bugs in this program that I somehow managed, but I'm so sorry for that. Feel free to use this project and imporove it. Let me know if you improved it in anyway. After all it's fun. 
+***This program has a Data set feature. Each day it will create a text file and write every chat history in it. You can use it as admin to check chat histories. 
 
 HOW TO RUN THIS PROJECT : 
   1. First install python-3.7.4
